@@ -47,7 +47,7 @@ class App extends Component {
         }
         { this.state.name
           ? <p>Name: <a href={this.state.html_url}><strong>{this.state.name}</strong></a></p> 
-          : <p>*Please enter a username</p> 
+          : <p>*Please enter an username</p> 
         }
         { this.state.location
           ? <p>Location: <strong>{this.state.location}</strong></p> 

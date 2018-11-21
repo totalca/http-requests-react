@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-fun/static/css/main.56e6fbfa.chunk.css",
-  "main.js": "/react-fun/static/js/main.66d5b3a1.chunk.js",
-  "main.js.map": "/react-fun/static/js/main.66d5b3a1.chunk.js.map",
-  "static/js/1.7ac19a4e.chunk.js": "/react-fun/static/js/1.7ac19a4e.chunk.js",
-  "static/js/1.7ac19a4e.chunk.js.map": "/react-fun/static/js/1.7ac19a4e.chunk.js.map",
-  "runtime~main.js": "/react-fun/static/js/runtime~main.8bac8385.js",
-  "runtime~main.js.map": "/react-fun/static/js/runtime~main.8bac8385.js.map",
-  "static/css/main.56e6fbfa.chunk.css.map": "/react-fun/static/css/main.56e6fbfa.chunk.css.map",
-  "index.html": "/react-fun/index.html",
-  "precache-manifest.d24d3c2776afd092b60dee6ce7c03750.js": "/react-fun/precache-manifest.d24d3c2776afd092b60dee6ce7c03750.js",
-  "service-worker.js": "/react-fun/service-worker.js"
+  "main.css": "/http-requests-react/static/css/main.56e6fbfa.chunk.css",
+  "main.js": "/http-requests-react/static/js/main.3ac9d2a7.chunk.js",
+  "main.js.map": "/http-requests-react/static/js/main.3ac9d2a7.chunk.js.map",
+  "static/js/1.7ac19a4e.chunk.js": "/http-requests-react/static/js/1.7ac19a4e.chunk.js",
+  "static/js/1.7ac19a4e.chunk.js.map": "/http-requests-react/static/js/1.7ac19a4e.chunk.js.map",
+  "runtime~main.js": "/http-requests-react/static/js/runtime~main.9be4afb3.js",
+  "runtime~main.js.map": "/http-requests-react/static/js/runtime~main.9be4afb3.js.map",
+  "static/css/main.56e6fbfa.chunk.css.map": "/http-requests-react/static/css/main.56e6fbfa.chunk.css.map",
+  "index.html": "/http-requests-react/index.html",
+  "precache-manifest.4deba7c7f0d2a68b0cc2a89f6016430f.js": "/http-requests-react/precache-manifest.4deba7c7f0d2a68b0cc2a89f6016430f.js",
+  "service-worker.js": "/http-requests-react/service-worker.js"
 }

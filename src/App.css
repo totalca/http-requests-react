@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #3c4146;
   height: 20px;
   display: flex;
   padding: 30px;
@@ -21,4 +21,14 @@
 input {
   margin: 20px auto;
   display: block;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
 }

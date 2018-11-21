@@ -6,6 +6,7 @@ const UserForm = (props) => {
       <input 
         type="text" 
         name="username" 
+        required
       />
       <button>Submit</button>
     </form>
